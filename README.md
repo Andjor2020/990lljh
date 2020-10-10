@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Clean Blog Preview](https://d500.epimg.net/cincodias/imagenes/2019/05/02/lifestyle/1556809482_591063_1556811522_sumario_normal.jpg)
+[![Clean Blog Preview](https://i.pinimg.com/originals/dc/74/4b/dc744b959eb369886866e24847f248c8.jpg)
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
 
 ## Status
