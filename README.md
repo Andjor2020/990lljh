@@ -5,7 +5,7 @@
 ## Preview
 
 [![Clean Blog Preview](https://i.pinimg.com/originals/dc/74/4b/dc744b959eb369886866e24847f248c8.jpg)
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
+**[View Live Preview](https://i.pinimg.com/originals/dc/74/4b/dc744b959eb369886866e24847f248c8.jpg)**
 
 ## Status
 
