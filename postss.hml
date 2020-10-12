@@ -82,7 +82,7 @@
          
 
           <a href="#">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1460716574194304%2Fvideos%2F1847420092190615%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+            <img class="img-fluid" src="https://scontent.fgye21-1.fna.fbcdn.net/v/t1.0-9/49666825_2189276194671668_8811792115517358080_n.jpg?_nc_cat=108&_nc_sid=9267fe&_nc_ohc=fLOKgTH2VS8AX9hqx-K&_nc_ht=scontent.fgye21-1.fna&oh=be0e1262254361387b2baad724179074&oe=5FA9FF84" alt="">
           </a>
           <span class="caption text-muted"></span>
 
